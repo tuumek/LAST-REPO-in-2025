@@ -1,1 +1,2 @@
 daily-log
+log.md
