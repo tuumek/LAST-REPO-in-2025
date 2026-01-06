@@ -1,4 +1,3 @@
- 
-# Daily Log
+ # Daily Log
 ## 2025
 ### January 
