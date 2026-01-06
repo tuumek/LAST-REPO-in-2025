@@ -3,4 +3,4 @@
 
 ## 2025
 
-### January 
+### January
